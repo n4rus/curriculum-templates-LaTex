@@ -4,7 +4,7 @@
 \usepackage{datetime}
 
 %document-type-curriculum_vitae
-%the blank fields, descriptions, and worlds between '#' must be substituted by user's information 
+%the blank fields, and descriptions must be substituted by user's information 
 \begin{document}
 \pagestyle{empty}
 \begin{center}
@@ -18,76 +18,76 @@
   \textbf{Name:} 
   \linebreak
   \textbf{Age:} 
-  \textbf{Drivers Licence(#country#):} 
+  \textbf{Drivers Licence(country):} 
   \linebreak
-  \textbf{Contact:} #phone1 / phone2#
+  \textbf{Contact:} phone1 / phone2
   \linebreak
   \textbf{Email:} 
-  \textbf{Adress:} # street, nº, neighborhood, city/province, state, country.
+  \textbf{Adress:} street, number, neighborhood, city/province, state, country
   \textbf{Postal Code:} 
   \linebreak
   \linebreak
   \textbf{Education:}
   \vspace*{0.5\baselineskip}
   \linebreak
-  #init_year main_subjec University#
+  first-year main-subject university
   \linebreak
-  #degree_type attended_semesters #
+  degree-type attended-semesters
   \vspace*{0.5\baselineskip}
-  \linebreak
-  #insert your data#
-  \linebreak
-  #insert your data#
-  \linebreak
-  \linebreak
+  \linebreak 
+  insert your data
+  \linebreak 
+  insert your data
+  \linebreak 
+  \linebreak 
   \textbf{Technical Knowledge \& Skills:}
   \vspace*{0.5\baselineskip}
   \linebreak
-  \textbf{Software(Basic):} #Languages, apps, frameworks, methods, etc.# 
+  \textbf{Software(Basic):} Languages, apps, frameworks, methods, etc.
   \linebreak
-  #insert your data#
+  insert your data
   \vspace*{0.25\baselineskip}
   \linebreak
   \textbf{Hardware:} 
   \vspace*{0.25\baselineskip}
   \linebreak
-  \textbf{Skills and knowledge:} #other/general_skills & knowledge#
+  \textbf{Skills and knowledge:} other/general_skills \& knowledge
   \vspace*{0.25\baselineskip}
   \linebreak
-  \textbf{#webpage/page#:} #insert your data#
+  \textbf{webpage/social-media:} insert your data
   \vspace*{0.25\baselineskip}
   \linebreak
-   \textbf{#Language_a proficiency_level#}
+   \textbf{Language-a proficiency-level}
    \linebreak
-   \textbf{#insert your data#}
+   \textbf{insert your data}     
    \linebreak
    \linebreak
   \textbf{Professional Experiences:}
   \vspace*{0.5\baselineskip}
   \linebreak
-  \textbf{#function (mm/dd/aaaa to dd/mm/aaaa)#}
+  \textbf{function (mm/dd/aaaa to dd/mm/aaaa)}
   \linebreak
-  #company_name#
+  company-name
   \linebreak
-  #Tasks: insert your data#
+  Tasks: insert your data
   \vspace*{0.5\baselineskip}
   \linebreak
-  \textbf{#insert your data#}
+  \textbf{insert your data}
   \linebreak
-  #insert your data#
+  insert your data
   \linebreak
-  #insert your data#
+  insert your data
   \vspace*{0.5\baselineskip}
   \linebreak
-  \textbf{#insert your data#}
+  \textbf{insert your data}
   \linebreak
-  #insert your data#
+  insert your data
   \linebreak
-  #insert your data#
+  insert your data
   \vspace*{0.5\baselineskip}
   \linebreak
-  %optional part, remove the '%' simbols in case of using it
-  %\textbf{Presentation Letter:} Description#
+  %optional part, remove the % simbols in case of using it
+  %\textbf{Presentation Letter:} Description
   %\vspace*{0.5\baselineskip}
   %\linebreak
   \end{flushleft}

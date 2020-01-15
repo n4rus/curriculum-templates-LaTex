@@ -5,7 +5,7 @@
 \usepackage[portuges]{babel}
 \vspace*{\baselineskip}
 
-%Substituir campos vazios, descritos, e marcadores entre '#' pelas informacoes do usuario
+%Substituir campos vazios e descritos pelas informacoes do usuario
 \begin{document}
 \pagestyle{empty}
 \begin{flushleft}
@@ -19,62 +19,61 @@
   \textbf{Idade:} 
   \textbf{Carteira Nacional de Habilitação(CNH):}
   \linebreak
-  \textbf{Contato:} #numero_de_telefone_1 / numero de telefone_2# 
-  \textbf{Recados:} #numero_de_telefone#
+  \textbf{Contato:} numero-de-telefone-1 / numero de telefone-2
+  \textbf{Recados:} numero-de-telefone
   \linebreak
   \textbf{ Email:} 
-  \textbf{Endereço:} #rua, nº , bairro, cidade, estado, país#
+  \textbf{Endereço:} rua, nº , bairro, cidade, estado, país
   \linebreak
   \linebreak
   \textbf{Formação Acadêmica:}
   \linebreak
   \linebreak
-  #ano universidade (tipo_de_habilitacao) – nº período
+  ano universidade (tipo-de-habilitacao) – nº período
   \linebreak
   \linebreak
-  #insira seus dados#
+  insira seus dados
   \linebreak
   \linebreak
   \textbf{Conhecimentos Técnicos e Habilidades:}
   \linebreak
   \linebreak
-  Software(Básico): #linguagens, frameworks, apps, etc.#
+  Software(Básico): linguagens, frameworks, apps, etc.
   \linebreak
-  #insira seus dados#
+  insira seus dados
   \linebreak
-  #habilidade/curso: insira seus dados#
+  habilidade/curso: insira seus dados
   \linebreak
-  #Habilidade/familiaridades/conhecimento(s):#
+  Habilidade/familiaridades/conhecimento(s):
   \linebreak
-  #Idioma Nivel#
+  Idioma Nivel
   \linebreak
   \linebreak
   \textbf{Experiência Profissional(CTPS):}
   \linebreak
   \linebreak
-  #função (dd/mm/aaaa à dd/mm/aaaa)#
+  função (dd/mm/aaaa à dd/mm/aaaa)
   \linebreak
-  #empresa#
+  empresa
   \linebreak
-  #Atividades: descrição#
+  Atividades: descrição
   \linebreak
+  insira seus dados
   \linebreak
-  #insira seus dados#
+  [insira seus dados
   \linebreak
-  #insira seus dados#
+  insira seus dadoss
   \linebreak
-  #insira seus dados#
+  insira seus dados
   \linebreak
+  insira seus dados
   \linebreak
-  #insira seus dados#
+  insira seus dados
   \linebreak
-  #insira seus dados#
-  \linebreak
-  #insira seus dados#
   %Linhas opcionais, remover os simbolos % caso sejam necessarias.
   %\linebreak
   %\vspace*{5\baselineskip}
-  %\textbf{#Carta de Apresentação#:} #descricao #
+  %\textbf{'Carta de Apresentação':} descricao '
   %\linebreak
   %
 \vspace*{5\baselineskip}
