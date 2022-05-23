@@ -1,2 +1,2 @@
 # misc
-Curriculum templates
+Curriculum templates using LaTex and pdflatex
