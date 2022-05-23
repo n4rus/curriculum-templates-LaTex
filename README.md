@@ -1,2 +1,2 @@
 # misc
-tools, files and templates
+Curriculum templates
