@@ -1,2 +1,2 @@
 # misc
-Curriculum templates using LaTex and pdflatex
+Curriculum templates in LaTex with 'pdflatex' as compiler.
